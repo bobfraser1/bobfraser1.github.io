@@ -1,4 +1,4 @@
-##Bob Fraser
+## Bob Fraser
 
 I am a technical product manager with a portfolio of work for marquis companies in a variety of product areas. I love working with bright, creative people building great solutions.
 
