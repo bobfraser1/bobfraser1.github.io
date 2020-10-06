@@ -2,9 +2,9 @@
 
 I am a technical product manager with a portfolio of work for marquis companies in a variety of product areas. I love working with bright, creative people building great solutions.
 
-I am currently at [Equinix](https://equinix.com) working on Edge Metal, a highly interconnected bare metal as a service offering.
+I am currently at [Equinix](https://equinix.com) working on [Equinix Metal](https://metal.equinix.com), a global, interconnected bare metal as a service offering.
 
-Read more: [Equinix Completes Acquisition of Packet](https://www.equinix.com/newsroom/press-releases/pr/123893/Equinix-Completes-Acquisition-of-Bare-Metal-Leader-Packet/)
+Read more: [Equinix Metal: Metal and More!](https://blog.equinix.com/blog/2020/10/06/equinix-metal-metal-and-more/)
 
 ### Contact
 
