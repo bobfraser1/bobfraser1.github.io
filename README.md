@@ -4,7 +4,6 @@ I am a technical product manager with a portfolio of work for marquis companies 
 
 ### Contact
 
-If this is personal, bobfraser1 will find me most places around the Web.
-You can also find me on <a rel="me" href="https://toot.community/@bobfraser">Mastodon</a>.
+If this is personal, bobfraser1 will find me most places around the Web. You can also find me on [Spoutible](https://spoutible.com/bobfraser), [Threads](https://www.threads.net/@bobfraser1), and <a rel="me" href="https://toot.community/@bobfraser">Mastodon</a>.
 
 If this is professional, you can find me on [LinkedIn](https://www.linkedin.com/in/bobfraser/). You can see some of the topics I'm interested in on [GitHub](https://github.com/bobfraser1).
